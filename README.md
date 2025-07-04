@@ -1,5 +1,5 @@
 # Budget App
-A Python app to manage budgets across categories and visualize spending.
+A simple Python app to manage budgets across categories and visualize spending.
 
 ## Features
 - **Category Management**: Track deposits, withdrawals, and transfers.
