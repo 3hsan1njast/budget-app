@@ -1,4 +1,4 @@
-# Budget App
+# 💰 Budget App 💰
 A simple Python app to manage budgets across categories and visualize spending.
 
 ## Features
